@@ -9,8 +9,23 @@ Date: YYYY-MM-DD
 # Import necessary modules
 
 # Global constants and variables
-#VERSION = "1.0.0"
+# VERSION = "1.0.0"
 
+import re
+
+
+def contains_delimeter(text):
+    """
+    Check if the input text contains ' - ' or ' by ' using regex.
+
+    :param text: A line of text to check.
+    :return: True if the text contains ' - ' or ' by ', False otherwise.
+    """
+    # Define the regex pattern
+    pattern = r" - | by "
+
+    # Search for the pattern in the text
+    return bool(re.search(pattern, text, re.IGNORECASE))
 
 
 def main():
@@ -26,8 +41,11 @@ def main():
     with open(file_path, mode="r", encoding="utf-8") as file:
         # Iterate through each line in the file
         for line in file:
-            # Print the line, removing any trailing whitespace
-            print(line.strip())
+            if contains_delimeter(line):
+                # Print the line, removing any trailing whitespace
+                print("Yes: ", line.strip())
+            else:
+                print("No:  ", line.strip())
 
 
 if __name__ == "__main__":
