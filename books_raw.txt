@@ -1,9 +1,6 @@
 Books / Authors to Read
 
-Kierkegaard
-
-Linux basics for hackers
-How to hack like a ghost, Breaching the Cloud
+Fear and Trembling - Søren Kierkegaard
 Mother Night - Kurt Vonnegut
 Catch-22 - Joseph Heller
 The sovereign individual
@@ -84,6 +81,8 @@ The Way of the Superior Man - David Deida
 Tuesdays With Morrie - Mitch Albom
 Letting Go  - Dr. David Hawkins
 How to be a Monastic and Not Leave You’re Day Job - Benet Tvedten
+The Accidental President: Harry S. Truman and the Four Months That Changed the World - A. J. Baime
+
 
 The Familiar Stranger - Tyler Staton
 Praying Like Monks, Living Like Fools - Tyler Staton
@@ -92,14 +91,8 @@ Searching for Enough - Tyler Staton
 Farm Hard or Starve - John Klar
 Small Farm Republic - John Klar
 
-
-The Top Five Regrets of the Dying - Bronnie Ware
-
-“I wish I’d had the courage to live a life true to myself, not the life others expected of me.”
-
 The Metamorphosis of Prime Intellect - Roger Williams
 A Casino Odyssey in Cyberspace - Roger Williams
-
 
 Life-Changing Books
 
@@ -114,8 +107,6 @@ Shop Class as Soulcraft - Matthew B. Crawford
 
 Philosophical Science Fiction Novels
 
-https://youtu.be/P-LFuvKv_bI?si=W8JQrm0xLds7FQdN
-
 Dune: https://amzn.to/3IyDs5P
 Solaris: https://amzn.to/3xxUKK5
 Cloud Atlas: https://amzn.to/3IekCj6
@@ -129,7 +120,6 @@ Ancillary Justice: https://amzn.to/3k7nnL4
 Culture Novels: https://amzn.to/3IIv0Br
 Memory Called Empire: https://amzn.to/3Z2EVHk
 
-
 Business Books to Make You Rich
 
 Secrets of the Millionaire Mind - T. Harv Eker
@@ -142,6 +132,9 @@ Awaken the Giant Within - Tony Robbins
 Getting Things Done - David Allen
 The Lean Startup - Eric Ries
 The Innovator’s Dilema - Clayton M. Christensen
+
+Linux basics for hackers
+How to hack like a ghost, Breaching the Cloud
 
 Getting to Yes
 
@@ -193,18 +186,18 @@ What Is Art? by Leo Tolstoy - https://amzn.to/3u2fqI8
 
 GRIM Book Circle
 
-1. Meditations by Marcus Aurelius
-2. The Science of Being Well by Wallace D. Wattles 
-3. Walden by Henry David Thoreau 
-4. How to Win Friends and Influence People by Dale Carnegie 
-5. The Art of War by Sun Tzu
-6. Think and Grow rich by Napoleon Hill
-7. War and Peace by Leo Tolstoy 
-8. Modern Money Mechanics by The Federal Reserve Bank of Chicago 
-9. Leaves of Grass by Walt Whitman
-10. Bushido: The Soul of Japan by Inazo Nitobe
-11. Dark Night of the Soul by Saint John of the Cross 
-12. On the Shortness of Life by Seneca
+Meditations by Marcus Aurelius
+The Science of Being Well by Wallace D. Wattles 
+Walden by Henry David Thoreau 
+How to Win Friends and Influence People by Dale Carnegie 
+The Art of War by Sun Tzu
+Think and Grow rich by Napoleon Hill
+War and Peace by Leo Tolstoy 
+Modern Money Mechanics by The Federal Reserve Bank of Chicago 
+Leaves of Grass by Walt Whitman
+Bushido: The Soul of Japan by Inazo Nitobe
+Dark Night of the Soul by Saint John of the Cross 
+On the Shortness of Life by Seneca
 
 Computer Science Recommendations
 
