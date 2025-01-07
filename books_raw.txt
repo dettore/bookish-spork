@@ -1,4 +1,4 @@
-Books / Authors to Read
+# Books / Authors to Read
 
 Fear and Trembling - Søren Kierkegaard
 Mother Night - Kurt Vonnegut
@@ -94,7 +94,7 @@ Small Farm Republic - John Klar
 The Metamorphosis of Prime Intellect - Roger Williams
 A Casino Odyssey in Cyberspace - Roger Williams
 
-Life-Changing Books
+## Life-Changing Books
 
 The World-Ending Fire - Wendell Berry
 Enchiridion of Epictetus - Epictetus
@@ -105,7 +105,7 @@ Narrative of the Life of Frederick Douglass
 Shop Class as Soulcraft - Matthew B. Crawford
 
 
-Philosophical Science Fiction Novels
+## Philosophical Science Fiction Novels
 
 Dune: https://amzn.to/3IyDs5P
 Solaris: https://amzn.to/3xxUKK5
@@ -114,13 +114,13 @@ Foundation: Isaac Asimov
 Canticle for Leibowitz: https://amzn.to/3k3buWL
 Anathem: https://amzn.to/3Z3lSwv
 Frankenstein: https://amzn.to/3KizVKd
-		—— Honorable Mentions ——
+###		—— Honorable Mentions ——
 The Man in the High Castle: https://amzn.to/3Ehj1In
 Ancillary Justice: https://amzn.to/3k7nnL4
 Culture Novels: https://amzn.to/3IIv0Br
 Memory Called Empire: https://amzn.to/3Z2EVHk
 
-Business Books to Make You Rich
+## Business Books to Make You Rich
 
 Secrets of the Millionaire Mind - T. Harv Eker
 Think and Grow Rich - Napoleon Hill
@@ -155,7 +155,7 @@ The King Jesus Gospel - Scot McKnight
 How God Became King - N.T. Wright
 Gospel Allegiance - Matthew Bates
 
-Celtic Christianity/Spirituality Reading List
+## Celtic Christianity/Spirituality Reading List
 
 Celtic Spirituality (Classics of Western Spirituality) - Oliver Davies
 Lorrha-Stowe Missal and the Hours of Bangor - Maelruain and Elizabeth Dowling
@@ -171,7 +171,7 @@ Celtic Daily Prayer: Prayers and Readings From the Northumbria Community - North
 
 McMaster-Carr Catalog
 
-The Spirited Man Reading List
+## The Spirited Man Reading List
 
 Shop Class as Soulcraft by Matthew Crawford - https://amzn.to/3ipz4br
 The Fourth Turning by Neil Howe, William Strauss - https://amzn.to/37J9FYn 
@@ -184,7 +184,7 @@ The Outlaw Bible of American Literature by Alan Kaufman - https://amzn.to/3N64st
 What Is Art? by Leo Tolstoy - https://amzn.to/3u2fqI8 
 
 
-GRIM Book Circle
+## GRIM Book Circle
 
 Meditations by Marcus Aurelius
 The Science of Being Well by Wallace D. Wattles 
@@ -199,7 +199,7 @@ Bushido: The Soul of Japan by Inazo Nitobe
 Dark Night of the Soul by Saint John of the Cross 
 On the Shortness of Life by Seneca
 
-Computer Science Recommendations
+## Computer Science Recommendations
 
 C Programming Language, 2nd Edition - Brian W. Kernighan and Dennis M. Ritchie
 C Programming: A Modern Approach, 2nd Edition - K. N. King

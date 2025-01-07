@@ -28,6 +28,19 @@ def contains_delimeter(text):
     return bool(re.search(pattern, text, re.IGNORECASE))
 
 
+def is_blank_or_markdown(text):
+    """
+    Check if the line is blank or contains markdown.
+
+    :param text: A line of text to check.
+    :return: True if the text is blank or contains markdown, False otherwise.
+    """
+    blank_line_pattern = re.compile(r"^\s*$|^#")
+
+    # seatch for the pattern in the text
+    return bool(re.search(blank_line_pattern, text))
+
+
 def main():
     """
     Main function of the program.
@@ -35,17 +48,21 @@ def main():
     # open raw book file and print contents
 
     # Specify the file path
-    file_path = "books_raw.txt"
+    books_file_path = "books_raw.txt"
+    # exception_file_path = "execeptions.txt"
+
     # Open the file in read mode
 
-    with open(file_path, mode="r", encoding="utf-8") as file:
+    with open(books_file_path, mode="r", encoding="utf-8") as file:
         # Iterate through each line in the file
         for line in file:
             if contains_delimeter(line):
                 # Print the line, removing any trailing whitespace
                 print("Yes: ", line.strip())
+            elif is_blank_or_markdown(line):
+                pass
             else:
-                print("No:  ", line.strip())
+                print("Exception:  ", line.strip())
 
 
 if __name__ == "__main__":
