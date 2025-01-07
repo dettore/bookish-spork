@@ -45,15 +45,13 @@ def main():
     """
     Main function of the program.
     """
-    # open raw book file and print contents
-
-    # Specify the file path
-    books_file_path = "books_raw.txt"
-    # exception_file_path = "execeptions.txt"
+    # Specify the i/o files
+    books_file = "books_raw.txt"
+    exceptions_file = "exceptions.txt"
 
     # Open the file in read mode
 
-    with open(books_file_path, mode="r", encoding="utf-8") as file:
+    with open(books_file, mode="r", encoding="utf-8") as file:
         # Iterate through each line in the file
         for line in file:
             if contains_delimeter(line):
@@ -62,7 +60,12 @@ def main():
             elif is_blank_or_markdown(line):
                 pass
             else:
+                # write exceptions to a file
                 print("Exception:  ", line.strip())
+                with open(
+                    exceptions_file, mode="a+", encoding="utf-8"
+                ) as exception_file:
+                    exception_file.write(line)
 
 
 if __name__ == "__main__":
